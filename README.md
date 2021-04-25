@@ -19,5 +19,5 @@ pandas, numpy, matplotlib, seaborn, sklearn
 ---
 
 ### Certification
-![](img/ebrusimsek.png)
+![](img/TopLearnerCertificate.png)
 
