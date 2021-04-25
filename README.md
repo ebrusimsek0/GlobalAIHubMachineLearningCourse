@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 22.03.2021-26.03.2021 
+**Course Date:** 18.04.2021-23.04.2021 
 **Name:** Ebru 
 **Surname:** Simsek  
 **Email:** ebrusimsek201@gmail.com  
