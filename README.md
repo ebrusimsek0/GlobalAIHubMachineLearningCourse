@@ -14,8 +14,7 @@ Global AI Hub Machine Learning Course
 ## Requirements
 ```
 Some python libraries
-Some python libraries
-Some python libraries
+pandas, numpy, matplotlib, seaborn, sklearn
 ```
 ---
 
